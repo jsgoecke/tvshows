@@ -1,0 +1,11 @@
+=== TVShows
+
+TVShows is a Mac OS X application that automatically downloads your favourite shows. You don't need anymore to manually download torrent files, TVShows does it for you. Manage your subscriptions and preferences from within the TVShows application, and TVShows takes care of the rest: a background process is automatically launched at a regular interval to check for new episodes.
+
+Original project here:
+
+http://tvshows.sourceforge.net/index2.html
+
+=== Is 1.0 Coming out soon?
+
+http://tvshows.sourceforge.net/
