@@ -1,0 +1,41 @@
+To do list :
+
+
+* Know bugs
+- Azureus launches but does not load torrents (sometimes?)
+
+
+* High priority (before next release):
+- User-agent (tvshows #version)
+- don't start checking at :00
+- gzip
+- launchd[1423]: net.sourceforge.tvshows: execve(): No such file or directory ??
+
+* Medium priority:
+- BSG bug ?
+- handle NSInvalidArgumentException when launching a NSTask
+- unit test for : show list, getdetails, parseRssFeed
+- Check for a Bittorrent client at startup
+- Change @"CFBundle..." with kCFBundle
+- Use sparkle for updates
+- Refresh show list (merge !)
+- Do a TVShows.plist updater
+- put GPL in code
+- uninstaller
+- check if file downloaded is really a torrent (might be HTML with "this torrent does not exist)
+
+
+* Low priority:
+- Calendar integration?
+- Nicer version checker
+- Handle double-click on table rows
+- Check the plist with a DTD?
+
+
+
+* Feature requests:
+- when updating shows, highlight (or something) the new ones.
+- open Bittorrent client in the background
+- IMDB/Wikipedia info
+- per shows preferences
+- organize shows in folders (download the torrents in separate folders + see if you can tell the client the destination ?)

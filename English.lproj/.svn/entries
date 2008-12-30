@@ -1,0 +1,44 @@
+8
+
+dir
+29
+https://tvshows.svn.sourceforge.net/svnroot/tvshows/trunk/English.lproj
+https://tvshows.svn.sourceforge.net/svnroot/tvshows
+
+
+
+2007-04-30T13:40:18.758661Z
+27
+swi95d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9930e879-b92a-0410-87c5-92469facfcc3
+
+InfoPlist.strings
+file
+
+
+
+
+2008-12-30T14:20:16.000000Z
+bafb0f3157faea5a84bdfc9421ba3ccc
+2007-03-04T20:07:11.932945Z
+5
+swi95d
+has-props
+
+MainMenu.nib
+dir
+

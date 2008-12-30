@@ -1,0 +1,31 @@
+News
+
+0.3.2 (04-29-2007)
+- Fixes an issue that caused everybody to check for new episodes at :00 and :30, which resulted in a bandwidth peak for tvrss.net.
+
+0.3.1 (04-26-2007)
+- Bugfixes:
+	* fixed a bug that happened when ruby was not installed in /usr/bin/ruby
+	* possibly fixed the "Could not download the show list. Are you connected to the internet ?"
+
+0.3 (04-17-2007)
+- Nice icon by Jonas Rask
+- Buxfixes:
+	* TVShows now asks for credentials to chmod the ~/Library/LaunchAgents folder (fixes the "could not write the ~/Library/LaunchAgents/net.sourceforge.tvshows.plist" bug)
+	* fixed the "spinning ball" issue when loading show details
+	* fixed a bug that caused the daemon to crash on case-sensitive formatted drives
+- Automatic updating with Sparkle
+- Looks for a Bittorrent client at startup
+- Update show list toolbar button
+
+0.2 (04-04-2007)
+- Bugfixes
+- Now handles all types of shows :
+	* shows organized by season/episode
+	* shows organized by date
+	* shows not organized at all
+- Nicer dialog to choose episode
+
+
+0.1 (03-08-2007)
+- First release

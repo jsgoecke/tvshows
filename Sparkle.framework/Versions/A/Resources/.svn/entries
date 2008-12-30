@@ -1,0 +1,46 @@
+8
+
+dir
+29
+https://tvshows.svn.sourceforge.net/svnroot/tvshows/trunk/Sparkle.framework/Versions/A/Resources
+https://tvshows.svn.sourceforge.net/svnroot/tvshows
+
+
+
+2007-04-13T10:58:34.212173Z
+19
+swi95d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9930e879-b92a-0410-87c5-92469facfcc3
+
+SUStatus.nib
+dir
+
+Info.plist
+file
+
+
+
+
+2008-12-30T14:20:16.000000Z
+296eb3944324b0502cea7d306d1e7267
+2007-04-13T10:58:34.212173Z
+19
+swi95d
+
+en.lproj
+dir
+

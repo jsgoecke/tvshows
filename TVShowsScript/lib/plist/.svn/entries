@@ -1,0 +1,52 @@
+8
+
+dir
+29
+https://tvshows.svn.sourceforge.net/svnroot/tvshows/trunk/TVShowsScript/lib/plist
+https://tvshows.svn.sourceforge.net/svnroot/tvshows
+
+
+
+2007-03-04T20:07:11.932945Z
+5
+swi95d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9930e879-b92a-0410-87c5-92469facfcc3
+
+generator.rb
+file
+
+
+
+
+2008-12-30T14:20:17.000000Z
+3d3d7545ea431677bf3bcbe7891d8aed
+2007-03-04T20:07:11.932945Z
+5
+swi95d
+
+parser.rb
+file
+
+
+
+
+2008-12-30T14:20:17.000000Z
+a04cf8d6c2c8bf0ed823306ae7391aa0
+2007-03-04T20:07:11.932945Z
+5
+swi95d
+

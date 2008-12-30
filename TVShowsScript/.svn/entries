@@ -1,0 +1,56 @@
+8
+
+dir
+29
+https://tvshows.svn.sourceforge.net/svnroot/tvshows/trunk/TVShowsScript
+https://tvshows.svn.sourceforge.net/svnroot/tvshows
+
+
+
+2007-04-30T13:40:18.758661Z
+27
+swi95d
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9930e879-b92a-0410-87c5-92469facfcc3
+
+TVShows.rb
+file
+
+
+
+
+2008-12-30T14:20:17.000000Z
+33809061c4a6c4c09deca2adbba93244
+2007-04-30T13:40:18.758661Z
+27
+swi95d
+has-props
+
+lib
+dir
+
+TVShowsConstants.rb
+file
+
+
+
+
+2008-12-30T14:20:17.000000Z
+c106ca67da3b73317fc621f0ede3a23e
+2007-04-17T20:47:54.072056Z
+25
+swi95d
+
